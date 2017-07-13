@@ -10,16 +10,16 @@ description: > # this means to ignore newlines until "url:". One indent required
   Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
 
 # the base hostname & protocol for your site
-url: "http://opentheme.co"
+url: "https://ajdhole.github.io"
 
-twitter_username: manavsehgal
-github_username:  manavsehgal
+twitter_username: ajdhole
+github_username:  ajdhole
 
 default_image: /img/opentheme-workflow.png
 
 # Pre-processing
 
-markdown: kramdown
+markdown: writeup_Report
 highlighter: pygments
 safe: true
 permalink: pretty # YYYY/MM/DD/page-title/index.html
